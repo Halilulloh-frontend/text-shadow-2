@@ -1,0 +1,24 @@
+h1{
+    color: rgb(6, 6, 106);
+    text-shadow: 1px 1px 7px rgb(72, 72, 216);
+}
+h2{
+    color: rgb(252, 249, 249);
+    text-shadow: 2px 2px 20px rgb(0, 0, 255);
+}
+h3{
+    color: rgb(173, 2, 2);
+    text-shadow: 1px 1px 3px rgb(244, 104, 104);
+}
+h4{
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+.index{
+    color: rgb(169, 6, 6);
+    text-shadow: 2px 2px 5px red;
+}
+.index1{
+    color: black;
+    text-shadow: 2px 2px 1px black;
+}
